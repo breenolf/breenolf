@@ -2,7 +2,6 @@
 ## A Brazilian in love with technological solutions!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/breno-falcao)](https://www.linkedin.com/in/breno-falcao/) 
-
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:falcaobreno@gmail.com)](mailto:falcaobreno@gmail.com)
 
 <br />

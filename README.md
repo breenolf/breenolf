@@ -1,11 +1,10 @@
 ### Hey, Welcome! I'm Breno Falcão 👋 🚀 👨‍💻
 ## A Brazilian in love with technological solutions!
 
-<a href="https://www.linkedin.com/in/breno-falcao/" target="_blank">
-  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
-</a>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/breno-falcao)](https://www.linkedin.com/in/breno-falcao/) 
 
-<br />
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:falcaobreno@gmail.com)](mailto:falcaobreno@gmail.com)
+
 <br />
 
 <p>Here you can find various challenging and practical projects involving the technologies studied at Trybe, as well as personal projects. I continue seek to study new technologies, best practices and tech trends.</p> 
